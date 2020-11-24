@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">darman_tugas5</string>
+    <string name="nama">Nama : Darman</string>
+    <string name="nim">NIM : 3420170004</string>
+    <string name="button">Panggil Activity Dua</string>
+    <string name="dibuat">Dibuat Oleh :</string>
+    <string name="umur">Umur 24 Tahun</string>
+    <string name="activity">Ini adalah activity dua</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">darman_tugas3</string>
+    <string name="gambar">gunung_kelud</string>
+    <string name="judul">Gunung Kelud</string>
+    <string name="isi">Gunung Kelud,
+        dalam aksara jawa(sering disalah tuliskan menjadi Kelut dalam bahasa Jawa; dalam bahasa Belanda disebut Klut, Cloot, Kloet, atau Kloete)
+        adalah sebuah gunung berapi di Provinsi Jawa Timur, Indonesia, yang tergolong aktif.
+        Gunung ini berada di perbatasan antara Kabupaten Kediri, Kabupaten Blitar, dan Kabupaten Malang,
+        kira-kira 35 km sebelah timur pusat Kota Kediri dan 25 km sebelah utara pusat Kota Blitar </string>
+    <string name="submit">SUBMIT</string>
+    <string name="foto">foto</string>
+    <string name="nama">Nama : Darman</string>
+    <string name="nim">NIM : 3420170004</string>
+
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">darman_tugas1</string>
+    <string name="judul">Selamat Datang</string>
+    <string name="gambar">gambar</string>
+    <string name="nama">Nama : Darman</string>
+    <string name="nim">NIM : 3420170004</string>
+    <string name="submit">SUBMIT</string>
+</resources>

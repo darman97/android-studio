@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Uts</string>
+    <string name="nama">Nama : Darman</string>
+    <string name="nim">NIM : 3420170004</string>
+    <!--    tugas2-->
+    <string name="judul_tugas2">Sejarah Danboo</string>
+    <string name="isi_tugas2">DANBO adalah kependekan dari Danboard,
+        Danbo sebenarnya diambil dari bahasa jepang “danboru”, yang berarti kardus.
+        Danboard atau sering disebut Danbo adalah sebuah tokoh fiksi dari sebuah manga yang berjudul Yotsuba!
+        (dibacanya yotsubato!) yang dikarang oleh Azuma Kiyohiko.</string>
+    <!--    tugas3-->
+    <string name="judul_tugas3">Gunung Kelud</string>
+    <string name="isi_tugas3">Gunung Kelud,
+        dalam aksara jawa(sering disalah tuliskan menjadi Kelut dalam bahasa Jawa; dalam bahasa Belanda disebut Klut, Cloot, Kloet, atau Kloete)
+        adalah sebuah gunung berapi di Provinsi Jawa Timur, Indonesia, yang tergolong aktif.
+        Gunung ini berada di perbatasan antara Kabupaten Kediri, Kabupaten Blitar, dan Kabupaten Malang,
+        kira-kira 35 km sebelah timur pusat Kota Kediri dan 25 km sebelah utara pusat Kota Blitar </string>
+    <!--    tugas5-->
+    <string name="dibuat">Dibuat Oleh :</string>
+    <string name="umur">Umur 24 Tahun</string>
+    <string name="activity">Ini adalah activity dua</string>
+<!--    tugas7-->
+    <string name="judul">Program Menghitung Persegi</string>
+    <string name="j_panjang">Masukkan Panjang</string>
+    <string name="j_lebar">Masukkan Lebar</string>
+    <string name="j_pass">Masukkan Password</string>
+<!--    latihan8-->
+
+    <string name="jd_band">Band Favorite</string>
+    <string name="jd_makanan">Makanan Favorite</string>
+    <string name="cb1">Muse</string>
+    <string name="cb2">Tokyo Jihen</string>
+    <string name="cb3">Nirvana</string>
+    <string name="rb1">Nasi Goreng</string>
+    <string name="rb2">Sayur Capcay</string>
+    <string name="rb3">Kentang Rebus</string>
+<!--    latihan9-->
+    <string name="bintang">
+        Bintang 5: Sangat setuju \n
+        Bintang 4: Setuju \n
+        Bintang 3: Kurang setuju \n
+        Bintang 2: Tidak setuju \n
+        Bintang 1: Sangat tidak setuju
+    </string>
+    <string name="Konfirmasi">Yakin mau keluar dari sistem?</string>
+</resources>

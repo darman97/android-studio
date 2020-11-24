@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">darman_tugas8</string>
+    <string name="nama">Nama : Darman</string>
+    <string name="nim">NIM : 3420170004</string>
+    <string name="jd_band">Band Favorite</string>
+    <string name="jd_makanan">Makanan Favorite</string>
+    <string name="cb1">Muse</string>
+    <string name="cb2">Tokyo Jihen</string>
+    <string name="cb3">Nirvana</string>
+    <string name="rb1">Nasi Goreng</string>
+    <string name="rb2">Sayur Capcay</string>
+    <string name="rb3">Kentang Rebus</string>
+</resources>

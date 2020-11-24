@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">darman_tugas7</string>
+    <string name="nama">Nama : Darman</string>
+    <string name="nim">NIM : 3420170004</string>
+    <string name="judul">Program Menghitung Persegi</string>
+    <string name="j_panjang">Masukkan Panjang</string>
+    <string name="j_lebar">Masukkan Lebar</string>
+    <string name="j_pass">Masukkan Password</string>
+
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">darman_tugas4</string>
+    <string name="TextView">Masukkan Data</string>
+    <string name="nama">Nama : Darman</string>
+    <string name="nim">NIM :3420170004</string>
+</resources>
