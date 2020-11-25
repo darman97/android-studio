@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/background"
     tools:context=".MainActivity">
 
     <Button
@@ -90,11 +91,9 @@
         android:id="@+id/circleImageView"
         android:layout_width="100dp"
         android:layout_height="100dp"
-        android:layout_marginStart="16dp"
-        android:layout_marginTop="60dp"
-        android:layout_marginBottom="283dp"
+        android:layout_marginStart="96dp"
+        android:layout_marginTop="24dp"
         android:src="@drawable/darman"
-        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toEndOf="@+id/imageView"
         app:layout_constraintTop_toBottomOf="@+id/latihan5" />
 
@@ -102,24 +101,24 @@
         android:id="@+id/nama"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="24dp"
-        android:layout_marginTop="60dp"
+        android:layout_marginStart="106dp"
+        android:layout_marginTop="33dp"
+        android:background="#FFFFFF"
         android:text="@string/nama"
         android:textStyle="bold"
-        app:layout_constraintStart_toEndOf="@+id/circleImageView"
-        app:layout_constraintTop_toBottomOf="@+id/latihan5" />
+        app:layout_constraintStart_toEndOf="@+id/imageView"
+        app:layout_constraintTop_toBottomOf="@+id/circleImageView" />
 
     <TextView
         android:id="@+id/nim"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="24dp"
+        android:layout_marginStart="96dp"
         android:layout_marginTop="8dp"
-        android:layout_marginBottom="336dp"
+        android:background="#FFFFFF"
         android:text="@string/nim"
         android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toEndOf="@+id/circleImageView"
+        app:layout_constraintStart_toEndOf="@+id/imageView"
         app:layout_constraintTop_toBottomOf="@+id/nama" />
 
     <ImageView
@@ -151,6 +150,18 @@
         android:text="latihan9"
         app:layout_constraintStart_toEndOf="@+id/latihan4"
         app:layout_constraintTop_toBottomOf="@+id/latihan8" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="39dp"
+        android:layout_marginTop="8dp"
+        android:background="#FFFFFF"
+        android:text="@string/email"
+        android:textStyle="bold"
+        app:layout_constraintStart_toEndOf="@+id/imageView"
+        app:layout_constraintTop_toBottomOf="@+id/nim" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

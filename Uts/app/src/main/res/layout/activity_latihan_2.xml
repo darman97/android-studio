@@ -50,10 +50,10 @@
         android:layout_width="136dp"
         android:layout_height="100dp"
         android:layout_marginStart="16dp"
-        android:layout_marginTop="154dp"
+        android:layout_marginTop="16dp"
         android:scaleType="fitXY"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/judul"
+        app:layout_constraintTop_toBottomOf="@+id/button"
         app:srcCompat="@drawable/darman" />
 
     <TextView
@@ -61,12 +61,12 @@
         android:layout_width="159dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
-        android:layout_marginTop="32dp"
+        android:layout_marginTop="16dp"
         android:text="@string/nama"
         android:textSize="18sp"
         android:textStyle="bold"
         app:layout_constraintStart_toEndOf="@+id/foto"
-        app:layout_constraintTop_toBottomOf="@+id/isi" />
+        app:layout_constraintTop_toBottomOf="@+id/button" />
 
     <TextView
         android:id="@+id/nim"
@@ -82,5 +82,15 @@
         app:layout_constraintStart_toEndOf="@+id/foto"
         app:layout_constraintTop_toBottomOf="@+id/nama"
         app:layout_constraintVertical_bias="0.005" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="302dp"
+        android:layout_height="51dp"
+        android:layout_marginStart="52dp"
+        android:layout_marginTop="13dp"
+        android:text="submit"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/isi" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

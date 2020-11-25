@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
                 float rating=Rb.getRating();
                 String kategori="";
                 if (rating>=5){
-                    kategori="Sangat setuhu";
+                    kategori="Sangat setuju";
                 }else if(rating>=4){
                     kategori="Setuju";
                 }else if(rating>=3){
