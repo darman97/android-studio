@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Uts_Pemrograman_Mobile</string>
+    <string name="judul3">Goa Seplawan</string>
+    <string name="isi3">Goa Seplawan adalah wisata alam gua yang terletak di Desa Donorejo, Kecamatan Kaligesing, Kulon Progo, Yogyakarta. Gua Seplawan memiliki panjang bentangan 700 meter dengan cabang-cabang gua sepanjang 150 meter sampai 300 meter dan diameter dari gua ini 15 meter. </string>
+    <string name="nama">Nama : Dedi Kurniawan</string>
+    <string name="nim">NIM : 3420170003</string>
+    <string name="Judul7">Program Menghitung Persegi</string>
+    <string name="j_panjang">Masukkan Panjang</string>
+    <string name="J_lebar">Masukkan Lebar</string>
+    <string name="pass">Masukkan Password</string>
+    <string name="band">Band Favorite</string>
+    <string name="makanan">Makanan Favorite</string>
+    <string name="cb1">Muse</string>
+    <string name="cb2">Tokyo Jihen</string>
+    <string name="cb3">Nirvana</string>
+    <string name="rb1">Nasi Goreng</string>
+    <string name="rb2">Sayur Capcay</string>
+    <string name="rb3">Kentang Rebus</string>
+    <string name="textView5">Naff dibentuk pada tahun 1998 dan berdomisili di Cimahi. Band ini dibentuk oleh empat orang pemuda. Rusyaedi Makmun adalah salah satu pendiri band tersebut dan mendapatkan posisi vokalis sekaligus pencipta lagu-lagu Naff.
+        Mereka pun sudah sepakat untuk merekam demo-demo lagu mereka di Kanamusik Studio di Bandung</string>
+    <string name="textView3">Sejarah NAFF</string>
+
+    <string name="bintang">
+        Bintang 5: Sangat setuju \n
+        Bintang 4: Setuju \n
+        Bintang 3: Kurang setuju \n
+        Bintang 2: Tidak setuju \n
+        Bintang 1: Sangat tidak setuju
+    </string>
+    <string name="konfirmasi">Yakin mau keluar dari sistem?</string>
+</resources>

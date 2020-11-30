@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">latihan_9</string>
+    <string name="nama">Nama : Achmad Fauzan Al Wasfi</string>
+    <string name="nim">NIM : 3420170035</string>
+    <string name="bintang">
+        Bintang 5: Sangat setuju \n
+        Bintang 4: Setuju \n
+        Bintang 3: Kurang setuju \n
+        Bintang 2: Tidak setuju \n
+        Bintang 1: Sangat tidak setuju
+    </string>
+    <string name="konfirmasi">Yakin mau keluar dari sistem?</string>
+</resources>
