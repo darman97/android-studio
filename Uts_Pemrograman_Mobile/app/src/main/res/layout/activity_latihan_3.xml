@@ -4,84 +4,83 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#89E0EC"
+    android:background="#B497BC"
     tools:context=".Latihan_3">
-
-    <Button
-        android:id="@+id/submit3"
-        android:layout_width="237dp"
-        android:layout_height="45dp"
-        android:layout_marginStart="24dp"
-        android:layout_marginTop="20dp"
-        android:layout_marginEnd="24dp"
-        android:text="submit"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/isi" />
-
-    <TextView
-        android:id="@+id/judul7"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="210dp"
-        android:layout_marginTop="24dp"
-        android:layout_marginEnd="30dp"
-        android:text="@string/judul3"
-        android:textSize="24sp"
-        android:textStyle="bold"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/gambar" />
 
     <ImageView
         android:id="@+id/gambar"
-        android:layout_width="308dp"
-        android:layout_height="215dp"
-        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_width="411dp"
+        android:layout_height="207dp"
+        android:layout_marginTop="24dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/splawan" />
+        app:srcCompat="@drawable/gunung_kelud" />
+
+    <TextView
+        android:id="@+id/judul"
+        android:layout_width="295dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/judul_tugas3"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/gambar" />
 
     <TextView
         android:id="@+id/isi"
-        android:layout_width="wrap_content"
+        android:layout_width="379dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
-        android:layout_marginTop="16dp"
-        android:layout_marginEnd="16dp"
-        android:text="@string/isi3"
-        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="15dp"
+        android:text="@string/isi_tugas3"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/judul7" />
+        app:layout_constraintTop_toBottomOf="@+id/judul" />
 
     <ImageView
-        android:id="@+id/imageView2"
-        android:layout_width="106dp"
-        android:layout_height="94dp"
-        android:layout_marginStart="16dp"
-        android:layout_marginTop="23dp"
+        android:id="@+id/foto"
+        android:layout_width="136dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="127dp"
+        android:scaleType="fitXY"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/submit3"
-        app:srcCompat="@drawable/dedi" />
-
-    <TextView
-        android:id="@+id/nim"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="25dp"
-        android:layout_marginTop="11dp"
-        android:text="@string/nim"
-        app:layout_constraintStart_toEndOf="@+id/imageView2"
-        app:layout_constraintTop_toBottomOf="@+id/nama" />
+        app:layout_constraintTop_toBottomOf="@+id/isi"
+        app:srcCompat="@drawable/dimas" />
 
     <TextView
         android:id="@+id/nama"
+        android:layout_width="136dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="31dp"
+        android:layout_marginTop="69dp"
+        android:text="@string/nama"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toEndOf="@+id/foto"
+        app:layout_constraintTop_toBottomOf="@+id/button_l3" />
+
+    <TextView
+        android:id="@+id/nim"
+        android:layout_width="155dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="22dp"
+        android:text="@string/nim"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toEndOf="@+id/foto"
+        app:layout_constraintTop_toBottomOf="@+id/nama" />
+
+    <Button
+        android:id="@+id/button_l3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="25dp"
-        android:layout_marginTop="41dp"
-        android:text="@string/nama"
-        app:layout_constraintStart_toEndOf="@+id/imageView2"
-        app:layout_constraintTop_toBottomOf="@+id/submit3" />
+        android:layout_marginStart="155dp"
+        android:layout_marginTop="23dp"
+        android:text="SUBMIT"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/isi" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">tes_bismilah</string>
+    <string name="imageView_Main_Banner">Gambar</string>
+    <string name="textView_Main_Header">Halaman Masuk</string>
+    <string name="textView_Main_Username">Nama Pengguna</string>
+    <string name="autoCompleteTextView_Main_Username_Hint">Masukan Nama Pengguna</string>
+    <string name="textView_Main_Password">Kata Sandi</string>
+    <string name="editText_Main_Password_Hint">Masukan Kata Sandi</string>
+    <string name="button_Main_Login">Masuk</string>
+    <string name="action_language">Pengaturan Bahasa</string>
+    <string name="textView_User_Welcome">Selamat Datang</string>
+    <string name="msgbox_Lock">Anda lebih dari 3 kali salah. Anda tidak bisa masuk.</string>
+    <string name="msgbox_Username_Empty">Nama pengguna tidak boleh kosong.</string>
+    <string name="msgbox_Password_Empty">Kata sandi tidak boleh kosong.</string>
+    <string name="msgbox_Login_Sukses">Sukses.</string>
+    <string name="msgbox_Login_Gagal">Nama pengguna atau kata sandi salah.</string>
+    <string name="title_Info">Informasi</string>
+</resources>

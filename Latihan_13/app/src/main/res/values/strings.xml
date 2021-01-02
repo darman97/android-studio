@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Tugas13_Dedi</string>
+    <string name="textView_Main_Film">Pilih Film</string>
+    <string name="imageView_Main_Banner">Main Banner</string>
+    <string name="textView_Main_Rating">Pilih Rating</string>
+    <string name="button_Main_Submit">Submit</string>
+    <string-array name="list_film">
+        <item>War Games</item>
+        <item>Take Down</item>
+        <item>source code </item>
+        <item>pirates of silicon valley</item>
+        <item> antitrust </item>
+    </string-array>
+    <string name="sinopsis1">
+        WarGames merupakan sebuah film Amerika Serikat yang dirilis pada tahun 1983.
+        Film yang disutradarai oleh John Badham ini pemainnya antara lain ialah Matthew Broderick,
+        Dabney Coleman, Ally Sheedy, dan masih banyak lagi. Tanggal rilisnya pada 3 Juni 1983.
+        David, pemuda ahli komputer, menggunakan mikrokomputer untuk kembali ke domain aman.
+        Kemudian, ia tak sadar terhubung dengan sebuah Super Computer tentara yang menembakkan
+        rudal militernya sendiri.
+    </string>
+
+    <string name="sinopsis2">
+        The Take Down merupakan film asal Skotlandia yang dikenal juga dengan judul Billionaire Ransom.
+        Bergenre thriller, film ini disutradarai Jim Gillespie dan ceritanya ditulis oleh Alexander Ignon.
+        Kisahnya tentang kamp di Pulau Soay, Skotlandia. Di sana, terdapat kamp untuk anak-anak pemberontak
+    yang berusia sekitar 25 tahun. Meskipun banyak yang berasal dari orangtua kaya raya, anak-anak tersebut
+    ditempa untuk harus tumbuh dengan cepat dan menangani masalah dengan tangan mereka sendiri.
+    Terlebih setelah kamp tersebut disandera oleh sekelompok penjahat.
+    </string>
+    <string name="sinopsis3">
+        Film Source Code mengisahkan tentang seorang pria bernama Colter Stevens (Jake Gyllenhaal).
+        Colter Stevens tiba-tiba terbangun dan mendapati dirinya berada di dalam tubuh orang asing
+        yang tak dikenalnya.Pria tersebut terbangun di dalam sebuah kereta yang tengah berjalan.
+        Wanita tersebut ternyata mengenal dirinya sebagai Sean Fentress.
+        Namun, Colter Stevens sama sekali tak mengenal Fentress dan mulai mempertanyakan identitas aslinya.
+        Delapan menit setelahnya, sebuah bom meledakkan kereta tersebut dan pria tadi kini terbangun
+        di dalam sebuah kapsul.Di sana, ia bertemu Kapten Colleen Goodwin dari Air Force (Vera Farmiga).
+        Colleen menjelaskan padanya kalau ia adalah Colter Stevens, namun ia ditempatkan di dalam
+        tubuh orang lain. Ia sebenarnya sedang ditugaskan dalam misi Source Code.
+        Source Code adalah sebuah program perputaran waktu yang dapat mengirimkan seseorang pada
+        tubuh orang lain sesaat sebelum meninggal.Stevens ditugaskan untuk mencari dalang dibalik
+        pengeboman kereta yang menuju Chicago.Agar dapat menghentikan aksi pengeboman selanjutnya yang dapat menelan jutaan korban jiwa.
+
+    </string>
+    <string name="sinopsis4">
+       Pirates of Silicon Valley is a 1999 American biographical drama television film directed by Martyn Burke
+        and starring Noah Wyle as Steve Jobs and Anthony Michael Hall as Bill Gates.
+        Spanning the years 1971–1997 and based on Paul Freiberger and Michael Swaine s 1984 book Fire in the Valley:
+        The Making of the Personal Computer, it explores the impact that the rivalry between Jobs
+        (Apple Computer) and Gates (Microsoft) had on the development of the personal computer.
+        The film premiered on TNT on June 20, 1999. Steve Jobs is speaking with director Ridley
+        Scott about the creation of the 1984 advertisement for Apple Computer, which introduced the first
+        Macintosh. Jobs is trying to convey his idea that "We're creating a completely new consciousness."
+        Scott is more concerned with the technical aspects of the advertisement.
+        Next in 1997 with Jobs, returning to Apple, and announcing a new deal with Microsoft at the 1997
+        Macworld Expo. His partner, Steve "Woz" Wozniak, is introduced as one of the two central narrators
+        of the story. Wozniak notes to the audience the resemblance between Big Brother and
+        the image of Bill Gates on the screen behind Jobs during this announcement. A
+        sking how they "got from there to here", the film turns to flashbacks of his youth with Jobs,
+        prior to the forming of Apple.
+
+    </string>
+    <string name="sinopsis5">
+         Antitrust (juga dikenal sebagai Conspiracy.com[4] dan Startup[5]) adalah film thriller tahun 2001
+        yang ditulis oleh Howard Franklin dan disutradarai oleh Peter Howitt.
+        Antitrust menceritakan seorang pemrogram yang idealis dan sebuah perusahaan besar( NURV) yang
+        menawarkan sejumlah besar uang untuk para pemrogram berbakat yang mau bekerja untuk mereka.
+        CEO NURV (Robbins) awalnya terlihat baik, tetapi Milo Hoffman (Phillippe) perlahan mulai menyingkap
+        rahasia tersembunyi di balik kegiatan NURV. Film ini dibintangi oleh Ryan Phillippe,
+        Tim Robbins, Rachael Leigh Cook, dan Claire Forlani, Antitrust dirilis di Amerika Serikat
+        pada 12 Januari 2001. Milo Hoffman (Ryan Phillippe) bersama teman-teman pemrogramnya membentuk
+        suatu perkumpualan bernama Skullbocks. Mereka selalu menemukan ide baru maupun penemuan mutakhir.
+        Perkumpulan ini semakin lama semakin dikenal hingga akhirnya kegeniusan mereka diketahui oleh
+        Gary Winston (Tim Robbins), seorang pemilik perusahaan NURV (Never Underestimate Radical vision),
+        pria yang berambisi mendominasi dunia lewat jalan dunia maya. Segalanya ingin dikuasainya lewat
+        kecanggihan teknologi, mulai dari urusan pendidikan hingga hiburan. Awalnya Milo merasa tersanjung
+        mendapat tawaran dari orang sekaliber Gary. Dengan berat hati pun ia keluar dari perkumpulan yang
+        telah mengangkat namanya. Selang beberapa waktu, setelah Milo bergabung dengan NURV.
+        Ada kejadian aneh yang membuat Milo curiga. Teddy (Yee Jee Tso), salah satu sahabatnya
+        di Skullbock mati terbunuh secara mengenaskan. Kecurigaan Milo makin bertambah
+        setelah Gary menunjukkan kode baru yang tak diketahui penemunya.
+        Dengan segala upaya dan risiko Milo pun berniat untuk menyelidiki pembunuhan Teddy yang
+        dianggapnya ada hubungannya dengan NURV.
+
+    </string>
+    <string name="imageView_Detail_Pic">Detail Banner</string>
+    <string name="textView_Detail_Sinopsis">Sinopsis</string>
+    <string name="textView_Detail_Desc">Deskripsi</string>
+    <string name="textView_Detail_Rating">Rating</string>
+</resources>

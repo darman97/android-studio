@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Darman_tugas12</string>
+    <string name="imageView_Main_Bg">Main Background</string>
+    <string name="textView_Main_Judul">Attendance Program</string>
+    <string name="textView_Main_Sub">List of student name</string>
+    <string name="action_language">Setting Language</string>
+    <!--Activity Absen-->
+    <string name="imageView_Absen_Bg">Absen Background</string>
+    <string name="textView_Absen_Judul">Attendance Program</string>
+    <string name="textView_Absen_Jam">time of entry</string>
+    <string name="textView_Absen_Tanggal">date of entry</string>
+    <string name="imageView_Absen_Kalender">Icon Calendar</string>
+    <string name="button_Absen_Submit">Submit</string>
+    <string name="imageView_Absen_Jam">Icon Clock</string>
+    <style name="inName">Nama : </style>
+</resources>

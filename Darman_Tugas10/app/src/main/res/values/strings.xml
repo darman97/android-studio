@@ -1,0 +1,18 @@
+<resources>
+<string name="app_name">Latihan11</string>
+<string name="Header">Login Page</string>
+<string name="jd_username1">Username</string>
+<string name="jd_username2">Enter Username</string>
+<string name="jd_password1">Password</string>
+<string name="jd_password2">Enter Password</string>
+<string name="jd_button">Login</string>
+<string name="action_language">Setting Language</string>
+
+<string name="textView_User_Welcome">Welcome</string>
+<string name="msgbox_Lock">You are more than 3 times wrong. You cannot enter.</string>
+<string name="msgbox_Username_Empty">Username cannot be empty.</string>
+<string name="msgbox_Password_Empty">Password cannot be empty.</string>
+<string name="msgbox_Login_Sukses">Success.</string>
+<string name="msgbox_Login_Gagal">Username or password incorrect.</string>
+<string name="title_Info">Information</string>
+</resources>

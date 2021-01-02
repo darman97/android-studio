@@ -2,8 +2,8 @@
     <string name="app_name">Uts_Pemrograman_Mobile</string>
     <string name="judul3">Goa Seplawan</string>
     <string name="isi3">Goa Seplawan adalah wisata alam gua yang terletak di Desa Donorejo, Kecamatan Kaligesing, Kulon Progo, Yogyakarta. Gua Seplawan memiliki panjang bentangan 700 meter dengan cabang-cabang gua sepanjang 150 meter sampai 300 meter dan diameter dari gua ini 15 meter. </string>
-    <string name="nama">Nama : Dedi Kurniawan</string>
-    <string name="nim">NIM : 3420170003</string>
+    <string name="nama">Nama : Dimas Andhika</string>
+    <string name="nim">Nim : 3420170002</string>
     <string name="Judul7">Program Menghitung Persegi</string>
     <string name="j_panjang">Masukkan Panjang</string>
     <string name="J_lebar">Masukkan Lebar</string>
@@ -16,9 +16,18 @@
     <string name="rb1">Nasi Goreng</string>
     <string name="rb2">Sayur Capcay</string>
     <string name="rb3">Kentang Rebus</string>
-    <string name="textView5">Naff dibentuk pada tahun 1998 dan berdomisili di Cimahi. Band ini dibentuk oleh empat orang pemuda. Rusyaedi Makmun adalah salah satu pendiri band tersebut dan mendapatkan posisi vokalis sekaligus pencipta lagu-lagu Naff.
-        Mereka pun sudah sepakat untuk merekam demo-demo lagu mereka di Kanamusik Studio di Bandung</string>
-    <string name="textView3">Sejarah NAFF</string>
+    <string name="judul_tugas2">Sejarah Danboo</string>
+    <string name="isi_tugas2">DANBO adalah kependekan dari Danboard,
+        Danbo sebenarnya diambil dari bahasa jepang “danboru”, yang berarti kardus.
+        Danboard atau sering disebut Danbo adalah sebuah tokoh fiksi dari sebuah manga yang berjudul Yotsuba!
+        (dibacanya yotsubato!) yang dikarang oleh Azuma Kiyohiko.</string>
+    <string name="judul_tugas3">Gunung Kelud</string>
+    <string name="isi_tugas3">Gunung Kelud,
+        dalam aksara jawa(sering disalah tuliskan menjadi Kelut dalam bahasa Jawa; dalam bahasa Belanda disebut Klut, Cloot, Kloet, atau Kloete)
+        adalah sebuah gunung berapi di Provinsi Jawa Timur, Indonesia, yang tergolong aktif.
+        Gunung ini berada di perbatasan antara Kabupaten Kediri, Kabupaten Blitar, dan Kabupaten Malang,
+        kira-kira 35 km sebelah timur pusat Kota Kediri dan 25 km sebelah utara pusat Kota Blitar </string>
+
 
     <string name="bintang">
         Bintang 5: Sangat setuju \n

@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">Darman_Tugas13</string>
+    <string name="textView_Main_Film">Pilih Film</string>
+    <string name="imageView_Main_Banner">Main Banner</string>
+    <string name="textView_Main_Rating">Pilih Rating</string>
+    <string name="button_Main_Submit">Submit</string>
+    <string-array name="list_film">
+        <item>THE SOCIAL NETWORK</item>
+        <item>THE IMITATION GAME</item>
+        <item>WHO AM I</item>
+        <item>Black Hat (2015)</item>
+        <item>Jobs (2013)</item>
+    </string-array>
+    <string name="sinopsis1">
+        Film ini menceritakan tentang seorang pemuda bernama Mark Zuckerberg seorang mahasiswa
+        Harvard yang menciptakan Facebook dengan bantuan pihak-pihak lain. Film ini beralur
+        flashback antara ketika Mark dan rekan-rekannya sedang bersidang dalam kasus kepemilikan
+        Facebook dan sejarah penciptaan Facebook itu sendiri. Pada awalnya (tahun 2003) Mark
+        Zuckerbeg menciptakan Facemash, sebuah jejaring untuk pemulihan foto-foto yang diambil
+        dari ‘Facebook’ seluruh anggota asramanya. Pemilihan foto ini berkategorikan hot or not.
+        Yang menempatkan foto dua wanita berdampingan pada satu waktu dan meminta pengguna memilih
+        yang mana yang paling seksi. Salah satu temannya baiknya, Eduardo Saverin, membantu
+        dalam pencarian rumus yang penting untuk menyempurnakan pembuatan Facemash ini.
+        Namun karena Facemash ini Mark diadili dan dihukum oleh komite kampus dengan tuduhan
+        menembus keamanan kampus, melanggar hak cipta, dan melanggar privasi individu, dan
+        terancam dikeluarkan. Namun hukuman itu dibatalkan. Tak hanya hukuman dari komite kampus,
+        Mark pun dicela oleh beberapa wanita di kampusnya karena tindakan lancangnya. Pada satu
+        waktu, Mark dihampiri oleh Cameron Winklevoss dan Tyler Winklevoss dan dia dipertemukan
+        dengan satu rekannya lagi, Divya Narendra. Mereka bertiga mengungkapkan idenya untuk
+        menciptakan Harvardconnection.com. Mark sempat menyindir ide Winklevoss bersaudara
+        yang menurutnya tidak berbeda dengan friendster dan myspace. Tapi tawaran kerjasama
+        akhirnya diterima Mark.
+    </string>
+
+    <string name="sinopsis2">
+        The Imitation Game (2014) adalah sebuah film yang diangkat dari biografi Alan Mathison
+        Turing dimana tokoh ini berperan besar dalam memenangkan perang untuk sekutu pada perang
+        dunia kedua. Alan Turing ketika masa pecah perang dunia kedua bekerja sama dengan ahli
+        kriptoanalisis untuk memecahkan kode enigma, yaitu sebuah sandi atau kode yang digunakan
+        oleh jerman. Turing mempunyai peran penting dalam memecahkan kode enigma tersebut dan
+        merupakan salah satu dari sekian orang yang berpikir tentang komputer digital. Dalam The
+        Imitation Game (2014), tokoh Alan Turing diperankan oleh Benedict Cumberbatch yang
+        sebelumnya telah dikenal lewat serial Sherlock dan trilogy The Hobbit. Film ini dimulai
+        dengan Turing yang bekerjasama dengan ahli kriptoanalisis dengan dipimpin oleh Hugh
+        Alexander (Mathhew Goode). Turing yang memiliki ego serta cara berpikir sendiri memilih
+        untuk menyendiri dan membuat sebuah alat untuk memecahkan kode enigma ketimbang
+        menerjemahkan naskah kode enigma dalam satu hari dengan kemungkinan tak terhingga.
+        Adalah Stewart Menzies (Mark Strong) yang mempercayai alat Turing dapat bekerja dan
+        akhirnya memberikan donasi sebesar 100.000 poundsterling untuk menyelesaikan mesinnya.
+        Selain itu, Turing pun menggantikan Hugh sebagai pemimpin tim. Langkah pertama pun
+        diambil dengan memecat orang yang dianggap tidak kompeten lalu mencari anggota baru
+        melalui teka-teki silang, yang kini dikenal dengan Test Turing. Joan Elizabeth Clarke
+        (Keira Knightley) yang berhasil memecahkan test turing dalam waktu 5 menit 43 detik
+        lebih cepat dari waktu yang diberikan, yaitu enam menit.
+    </string>
+    <string name="sinopsis3">
+        Who Am I (2014) telah dirilis pada tanggal 25 September 2014 (Germany). Film Who Am I ini
+        dirilis dengan genre thriller yang telah dibintangi oleh actor ternama yaitu Elyas MBraek,
+        Tom Schilling, Wotan Wilke, dan masih banyak lagi. Film ini sendiri menceritakan seorang
+        pemuda yang bernama Benjamin ( Tom Schilling ) yang sangat ahli dalam urusan komputer.
+        Ia hampir tidak memiliki teman disekolahnya, dan iapun sering di bully oleh teman - teman
+        sekolahnya. Benjamin sendiripun sebenarnya memendam perasaan pada temannya;
+        Hannah Herzsprung. Kemampuannya dalam komputerpun membuatnya berkenalan dengan
+        Max ( Elyas MBraek ) yang memiliki misi untuk meretas situ - situs yang ada di dunia,
+        akan tetapi Max membutuhkan tenaga Benjamin untuk mempermulus misi rahasianya itu.
+        Benjamin-pun menerima tawarannya tersebut, disana benjamin bertemu dengan 2 orang teman Max
+        lainnya, mereka adalah Stephen dan Paul. Lalu mereka menamai diri mereka sendiri dengan
+        sebutan CLAY yang merupan singkatan dari Clowns Laughing At You. Mereka berempatpun memiliki
+        tujuan untuk meretas sistem keamanan dan membuat lelucon tentang keuangan di dunia. Akan
+        tetapi aktivitas mereka-pun menarik perhatian dari Europol (Europe Interpol) yang dikepalai
+        oleh Hanne Lindberg. Mereka-pun dikejar oleh para Europol terkait aksi - aksi mereka yang
+        telah mengacaukan banyak sistem keamanan.
+
+    </string>
+    <string name="sinopsis4">
+        Black Hat (2015): Sebuah film yang disutradarai oleh Michael Mann. Film ini diperankan
+        di antaranya oleh Chris Hemsworth, Viola Davis dan Wei Tang.
+        Film ini menceritakan tentang Nick Hathaway, seorang peretas yang sangat berbakat.
+        Dirinya menjadi tahanan pemerintah AS karena aksi pembobolan bank. Namun ia diberi
+        kesempatan bebas dengan melaksanakan tugas gabungan bersama Kepolisian Amerika dan Tiongkok
+        untuk melacak jaringan cybercrime tingkat tinggi di seluruh dunia.
+        Nick bersama dengan Ceng Da Wai teman lamanya yang bekerja di kementrian pertahanan
+        Tiongkok bekerja sama untuk membongkar sindikat peretas.
+        Peretas tersebut diidentifikasi telah menggunakan malware yang pernah dibuat oleh Hathway
+        dan Da Wai semasa kuliah dulu
+
+    </string>
+    <string name="sinopsis5">
+        Jobs (2013) : Film diawali tahun 2001 dengan Steve Jobs memperkenalkan iPod di pertemuan
+        balai kota Apple. Dia kembali ke Reed College tahun 1974, Jobs sudah berhenti sebab
+        mahalnya biaya kuliah namun masih menghadiri kelas atas persetujuan Dekan Jack Dudman yang
+        membawanya.
+        Jobs tertarik kursus kaligrafi. Dia bertemu Daniel Kottke yang bersemangat melihat Jobs
+        memegang salinan Be Here Now. Dipengaruhi buku tersebut dan pengalamannya dengan LSD,
+        Kottke dan Jobs menghabiskan waktu di India.
+        2 tahun berikutnya Jobs kembali ke Los Altos tinggal di rumah dengan orang tua angkatnya
+        Paul dan Clara. Dia bekerja untuk Atari, mengembangkan kedekatan dengan Steve Wozniak
+        usai dia melihat Wozniak membangun komputer pribadi  Apple I.
+        Mereka menamai perusahan mereka Apple Computer, walaupun sudah ada perusahaan bernama
+        Aplle Records yang dimiliki The Beatles. Wozniak memberikan demonstrasi Apple I di Homebrew
+        Computer Club. Jobs didekati Paul Terrell menunjukkan minat pada Apple I.
+        Mengetahui dia dan Wozniak akan membutuhkan studio, Jobs meyakinkan ayahnya Paul
+        mengizinkan mereka memanfaatkan garasi keluarga untuk perusahaan barunya.
+        Menyadari mereka tidak mampu membangun komputer itu sendirian, Jobs juga merekrut
+        Daniel Kottke, Chris Espinosa, Bill Fernandez ke tim Apple. Terrell kecewa terhadap Apple I,
+        reaksi yang menginspirasi Jobs memulai lagi dengan model kedua.
+        Dia memperkerjakan Rod Holt merekonseptualisasi terhadap apa yang akan disebut Apple II.
+        Setelah banyak kegagalan, Jobs memenangkan minat terhadap Mike Markkula yang juga bergabung
+        bersama Apple.
+        Mereka merilis Apple II di West Coast Computer Faire 1977. Keberhasilan ini mengakibatkan
+        Jobs menjauhkan diri dari teman dan kekasihnya Chrissan Brennan. Brennan mengatakan
+        kepadanya dia hamil anak mereka, dia segera mengakhiri hubungan mereka.
+        Brennan melahirkan Lisa Brennan yang terus disangkal Jobs sebagai anaknya. Dia juga membawa
+        John Sculley menjadi CEO perusahaan. Ketika perilakunya menjadi lebih tidak menentu, Jobs
+        dipindahkan dari The Lisa menuju Group Macintosh tempat dia bekerja bersama Bill Atkinson,
+        Burrell Smith, Andy Hertzfeld, dan Chris Espinosa.
+        Dia memaksa pemimpin tim asli kelompok Macintosh, Jef Raskin keluar dari sana. Macintosh
+        diperkenalkan banyak kemeriahan di tahun 1984, Jobs dipaksa keluar dari perusahaan di tahun
+        1985 oleh Sculley.
+        Film melompat di tahun 1996, Jobs menikah dengan Laurence Powell Jobs dan telah menerima
+        Lisa sebagai putrinya. Dia mempunyai putra Reed dan juga menjalankan perusahan NeXT yang
+        Apple memutuskan membeli.
+        Dia diminta CEO Gil Amelio ketika itu untuk kembali menuju Apple sebagai konsultan. Jobs
+        melakukannya segera dia diangkat sebagai CEO baru, yang pada akhirnya memecat Amelio dan
+        mantan temannya Markkula. Jobs menjadi tertarik terhadap karya Jony Ive dan bekerja
+        menemukan kembali Apple. Film berakhir dimana Jobs merekam dialog untuk the Think
+        Different di tahun 1997.
+
+    </string>
+    <string name="imageView_Detail_Pic">Detail Banner</string>
+    <string name="textView_Detail_Sinopsis">Sinopsis</string>
+    <string name="textView_Detail_Desc">Deskripsi</string>
+    <string name="textView_Detail_Rating">Rating</string>
+</resources>

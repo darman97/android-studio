@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#7CB342"
+    android:background="#96729F"
     tools:context=".Latihan_1">
 
     <TextView
@@ -30,7 +30,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/judul1"
-        app:srcCompat="@drawable/dedi" />
+        app:srcCompat="@drawable/dimas" />
 
     <TextView
         android:id="@+id/textView9"
@@ -62,6 +62,8 @@
         android:layout_height="63dp"
         android:layout_marginStart="93dp"
         android:layout_marginTop="25dp"
+        android:background="#FFFFFF"
+        android:backgroundTint="#00FFFFFF"
         android:text="submit"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView3" />

@@ -2,9 +2,9 @@
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:background="@drawable/coklat"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/background"
     tools:context=".Latihan_9">
 
     <de.hdodenhof.circleimageview.CircleImageView
@@ -13,7 +13,7 @@
         android:layout_height="100dp"
         android:layout_marginStart="155dp"
         android:layout_marginTop="8dp"
-        android:src="@drawable/dedi"
+        android:src="@drawable/dimas"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -24,6 +24,7 @@
         android:layout_marginStart="80dp"
         android:layout_marginTop="8dp"
         android:text="@string/nama"
+        android:textColor="#FFFFFF"
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/circleImageView" />
@@ -35,6 +36,7 @@
         android:layout_marginStart="80dp"
         android:layout_marginTop="8dp"
         android:text="@string/nim"
+        android:textColor="#FFFFFF"
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/nama" />
@@ -47,7 +49,7 @@
         android:layout_marginEnd="24dp"
         android:background="#00FCFCFC"
         android:text="Page Rating Bar"
-        android:textColor="#000000"
+        android:textColor="#E53935"
         android:textSize="30sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"

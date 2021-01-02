@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#5DC4D1"
+    android:background="#AA95D5"
     tools:context=".Latihan_4">
 
     <de.hdodenhof.circleimageview.CircleImageView
@@ -13,7 +13,7 @@
         android:layout_height="105dp"
         android:layout_marginStart="31dp"
         android:layout_marginTop="52dp"
-        android:src="@drawable/dedi"
+        android:src="@drawable/dimas"
         app:layout_constraintStart_toEndOf="@+id/nama"
         app:layout_constraintTop_toTopOf="parent" />
 

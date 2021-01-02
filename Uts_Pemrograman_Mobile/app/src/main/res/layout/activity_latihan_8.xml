@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#3E2A43"
     tools:context=".Latihan_8">
 
     <TextView
@@ -157,7 +158,7 @@
         android:layout_height="100dp"
         android:layout_marginStart="17dp"
         android:layout_marginTop="47dp"
-        android:src="@drawable/dedi"
+        android:src="@drawable/dimas"
         app:layout_constraintStart_toEndOf="@+id/imageView"
         app:layout_constraintTop_toBottomOf="@+id/button" />
 

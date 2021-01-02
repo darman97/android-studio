@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Darman_tugas12</string>
+    <string name="imageView_Main_Bg">Main Background</string>
+    <string name="textView_Main_Judul">Program Absen</string>
+    <string name="textView_Main_Sub">List Nama Mahasiswa</string>
+    <string name="action_language">Setting Language</string>
+    <!--Activity Absen-->
+    <string name="imageView_Absen_Bg">Absen Background</string>
+    <string name="textView_Absen_Judul">Program Absen</string>
+    <string name="textView_Absen_Jam">Jam Masuk</string>
+    <string name="textView_Absen_Tanggal">Tanggal Masuk</string>
+    <string name="imageView_Absen_Kalender">Icon Calendar</string>
+    <string name="button_Absen_Submit">Submit</string>
+    <string name="imageView_Absen_Jam">Icon Clock</string>
+</resources>

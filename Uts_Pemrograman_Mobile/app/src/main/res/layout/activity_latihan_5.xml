@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#7BB5CF"
+    android:background="#D8B5E1"
     tools:context=".Latihan_5">
 
     <Button
@@ -27,7 +27,7 @@
         android:layout_marginStart="25dp"
         android:layout_marginTop="96dp"
         android:layout_marginEnd="16dp"
-        android:src="@drawable/dedi"
+        android:src="@drawable/dimas"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/nama2"
         app:layout_constraintTop_toTopOf="parent" />
